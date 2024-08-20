@@ -1,0 +1,4 @@
+A break through happened today.
+i was able to use  flex box to position my contact and about and position my main content
+i created a color variable and made an auto layout using flex wraap.
+i created a nice border for my about and contact and set the border radius. all this felt like an easier way to set up a responsive webpage, using cmponents, variables and autolayout
