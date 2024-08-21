@@ -5,5 +5,8 @@ i created a nice border for my about and contact and set the border radius. all 
 # ANOTHER BREAK THROUGH ALHAMDULILAH
 
 targeted my nav bar.
-used flexbox to to space them
-did a cool hover trick 
+used flexbox to space them
+did a cool hover trick fto change the color of the contact background when one hovers their mouse over it.
+
+#another step achieved
+created a a purple span bacground element around the intro sentence name, "samira". customized it with border radius and padding
