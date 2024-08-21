@@ -9,4 +9,6 @@ used flexbox to space them
 did a cool hover trick fto change the color of the contact background when one hovers their mouse over it.
 
 #another step achieved
-created a a purple span bacground element around the intro sentence name, "samira". customized it with border radius and padding
+created a a purple span bacground element around the intro sentence name, "samira". customized it with border radius and padding.
+
+moved things to a particular position with padding-right/left etc. created a significant amount of space between the header/nav bar and body.
